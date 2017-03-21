@@ -1,5 +1,5 @@
 {
-    "name": "KORSR/ZohoBook",
+    "name": "korsr/zohobooks",
     "description": "A php wrapper fot eh Zoho Books API",
     "license": "GNU GENERAL PUBLIC LICENSE V3.0",
     "keywords": ["zoho","books"],
