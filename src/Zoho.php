@@ -1,4 +1,6 @@
-<?php namespace korsr\zohobooks;
+<?php
+
+namespace Korsr\ZohoBooks;
 
 class Zoho {
 
